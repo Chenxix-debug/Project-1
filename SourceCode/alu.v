@@ -16,6 +16,7 @@ always @(*) begin
         3'b100: result = a ^ b; //Xor
         3'b101: result = a << b; //sll
         3'b110: result = a >> b; //srl
+        default: result = 16'b0;
     endcase    
 end
 
