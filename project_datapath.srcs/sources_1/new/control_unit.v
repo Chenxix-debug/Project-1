@@ -54,12 +54,12 @@ module control_unit(
                         alu_op = 3'b000;
                     end
                     
-                    4 'b0001: begin
+                    4'b0001: begin
                         reg_write = 1;
                         alu_op = 3'b001;
                     end
                     
-                    4 'b0010: begin
+                    4'b0010: begin
                         reg_write = 1;
                         alu_op = 3'b101;
                     end

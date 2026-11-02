@@ -38,8 +38,6 @@ module multiplexor_tb;
         a = 16'd5;
         b = 15'd10;
         
-        //Select A 
-        
         in = 0;
         #10;
         
