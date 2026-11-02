@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lucas/Project-1/project_datapath/project_datapath.srcs/sources_1/new/multiplexor_2to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplexor_2to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lucas/Project-1/project_datapath/project_datapath.srcs/sim_1/new/multiplexor_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplexor_tb
